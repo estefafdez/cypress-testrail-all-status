@@ -29,7 +29,7 @@
     "compile": "tsc -p tsconfig.json"
   },
   "dependencies": {
-    "axios": "^0.24.0",
+    "axios": "^1.20.0",
     "mocha": "^12.0.3"
   },
   "devDependencies": {
